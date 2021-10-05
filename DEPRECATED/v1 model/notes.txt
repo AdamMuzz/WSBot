@@ -1,0 +1,3 @@
+working (psaw has time holes so no data for now)
+	try using older dates
+currently only has single thread lookup
